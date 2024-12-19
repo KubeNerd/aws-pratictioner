@@ -255,3 +255,39 @@ Reconhece e analisa objetos em imagens e vídeos, não lida com texto para voz.
 ---
 **Amazon Textract:** <br/>  
 Extrai texto de imagens e documentos, não converte texto em fala.
+
+---
+
+**Amazon Forecast:** <br/>   
+Amazon Forecast é um serviço de previsão de séries temporais que utiliza técnicas de machine learning para gerar previsões precisas. No entanto, ele é mais adequado para prever tendências futuras com base em dados históricos, em vez de armazenar e analisar grandes volumes de dados de séries temporais em tempo real.
+
+---
+**Amazon FSx File Gateway** <br/> 
+Este serviço permite que você acessar compartilhamentos de arquivos do Amazon FSx for Windows File Server usando o protocolo Server Message Block (SMB) a partir de seu ambiente local, sem a necessidade de implantar e gerenciar infraestrutura adicional
+
+
+---
+**S3 Versioning:** <br/> 
+Permite que você mantenha várias versões de um objeto, mas não move objetos para diferentes classes de armazenamento.
+
+---
+**S3 Object Lock:** <br/> 
+Impede que os objetos sejam excluídos ou modificados, mas não move objetos para diferentes classes de armazenamento.
+
+--- 
+
+**S3 Inventory:** <br/> 
+Fornece relatórios sobre seus dados, mas não move objetos para diferentes classes de armazenamento.
+
+**Amazon EFS:** <br/> 
+Embora o Amazon EFS seja um sistema de arquivos totalmente gerenciado, ele não suporta nativamente sistemas de arquivos da Microsoft nem o protocolo SMB.
+
+**Amazon FSx for Lustre:** <br/> 
+Otimizado para cargas de trabalho de computação de alto desempenho e não suporta nativamente sistemas de arquivos da Microsoft nem o protocolo SMB.
+
+**Amazon EBS:** <br/>  
+Fornece armazenamento de bloco para instâncias EC2, mas não oferece um serviço de servidor de arquivos gerenciado e não suporta nativamente sistemas de arquivos da Microsoft nem o protocolo SMB.
+
+
+**AWS re:Post** <br/> 
+É uma plataforma gratuita da AWS onde os usuários podem ingressar em grupos da comunidade, fazer perguntas, encontrar respostas e ler artigos gerados pela comunidade sobre práticas recomendadas.
